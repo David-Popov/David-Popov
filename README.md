@@ -43,11 +43,18 @@ I am a passionate **Software Engineer** with over **3 years of professional expe
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Popov&show_icons=true&theme=radical" alt="David's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Popov&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Popov&theme=radical&hide_border=true" alt="David's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=David-Popov&theme=radical&no-bg=true&column=4" alt="David's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=David-Popov&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
